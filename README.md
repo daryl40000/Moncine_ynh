@@ -11,7 +11,7 @@
 
 **Moncine** is a web app to manage a **personal movie library**: collection, wishlist, ratings, TMDB enrichment, CSV import/export, user accounts, households, loans, visitor sharing, evening quiz, printable lists, and more.
 
-**Bundled version:** 0.9.6 ([upstream release](https://github.com/daryl40000/Moncine/releases/tag/0.9.6))
+**Bundled version:** 1.0.0 ([upstream release](https://github.com/daryl40000/Moncine/releases/tag/1.0.0))
 
 ## Main features
 
@@ -40,7 +40,7 @@ Then open `https://your-domain/premier-compte.php`.
 ## Links
 
 - Application: <https://github.com/daryl40000/Moncine>
-- Release 0.9.6: <https://github.com/daryl40000/Moncine/releases/tag/0.9.6>
+- Release 1.0.0: <https://github.com/daryl40000/Moncine/releases/tag/1.0.0>
 - YunoHost packaging docs: <https://yunohost.org/packaging_apps>
 
 ## Package development

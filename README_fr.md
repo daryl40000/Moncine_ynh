@@ -40,7 +40,7 @@ Puis ouvrez `https://votre-domaine/premier-compte.php`.
 ## Liens
 
 - Application : <https://github.com/daryl40000/Moncine>
-- Release 0.9.6 : <https://github.com/daryl40000/Moncine/releases/tag/0.9.6>
+- Release 1.0.0 : <https://github.com/daryl40000/Moncine/releases/tag/1.0.0>
 - Documentation packaging YunoHost : <https://yunohost.org/packaging_apps>
 
 ## Développement du paquet
