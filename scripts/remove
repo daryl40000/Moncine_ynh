@@ -12,6 +12,11 @@ ynh_script_progression "Suppression de la configuration système de ${app}…"
 ynh_config_remove_nginx
 ynh_config_remove_phpfpm
 
+if [[ -n "${data_dir:-}" && -d "${data_dir}" ]]; then
+    ynh_script_progression "Suppression du dossier de données ${data_dir}…"
+    ynh_safe_rm "${data_dir}"
+fi
+
 #=================================================
 # FIN
 #=================================================
