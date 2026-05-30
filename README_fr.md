@@ -11,7 +11,7 @@
 
 **Moncine** est une application web pour gérer une **dvdthèque personnelle** : films, envies, notes, enrichissement TMDB, import/export CSV, comptes utilisateurs, foyers, prêts entre amis, partage visiteur, questionnaire du soir, listes imprimables, etc.
 
-**Version incluse :** 0.9.6 ([release upstream](https://github.com/daryl40000/Moncine/releases/tag/0.9.6))
+**Version incluse :** 1.0.0 ([release upstream](https://github.com/daryl40000/Moncine/releases/tag/1.0.0))
 
 ## Fonctionnalités principales
 
