@@ -1,1 +1,1 @@
-This is a dummy disclaimer to display prior to any upgrade
+Sauvegardez **`__DATA_DIR__/moncine.db`** avant la mise à jour. Les migrations SQL sont appliquées automatiquement au démarrage de la mise à jour.

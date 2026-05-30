@@ -1,1 +1,1 @@
-This is a dummy disclaimer to display after upgrades
+La mise à jour est terminée. Vérifiez que l’application répond correctement et que les migrations SQL se sont bien appliquées.
