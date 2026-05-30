@@ -2,15 +2,7 @@
 
 1. Ouvrez **https://__DOMAIN____PATH__premier-compte.php**
 2. Créez le **compte administrateur** et le foyer par défaut.
-3. (Optionnel) Ajoutez votre clé API TMDB dans `__DATA_DIR__/tmdb_api_key.txt` pour l’enrichissement des fiches.
 
-## Clé TMDB
-
-Copiez le fichier exemple puis éditez-le :
-
-```bash
-sudo cp __DATA_DIR__/tmdb_api_key.txt.example __DATA_DIR__/tmdb_api_key.txt
-sudo nano __DATA_DIR__/tmdb_api_key.txt
 ```
 
 ## E-mails (mot de passe oublié, inscription)
