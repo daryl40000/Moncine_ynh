@@ -7,7 +7,7 @@ name = "Moncine"
 description.fr = "Dvdthèque personnelle : collection, envies, choix du film du soir"
 description.en = "Personal movie library: collection, wishlist, evening picker"
 
-version = "1.0.2~ynh2"
+version = "1.0.3~ynh1"
 
 maintainers = ["Stéphane MATER"]
 
@@ -45,8 +45,8 @@ ram.runtime = "100M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/daryl40000/Moncine/archive/refs/tags/1.0.2.tar.gz"
-    sha256 = "c3823ffb53a3d8040d7b0db3994ad7e24526399bd57271aa8951e2c080fb66ec"
+    url = "https://github.com/daryl40000/Moncine/archive/refs/tags/1.0.3.tar.gz"
+    sha256 = "cd616037b8ed3a32cced49b2bafe13f58eba2c61afedd9165c5aa89235ec5463"
     autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
