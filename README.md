@@ -40,7 +40,7 @@ Then open `https://your-domain/premier-compte.php`.
 ## Links
 
 - Application: <https://github.com/daryl40000/Moncine>
-- Release 1.0.4: <https://github.com/daryl40000/Moncine/releases/tag/1.0.4>
+- Release 1.0.5: <https://github.com/daryl40000/Moncine/releases/tag/1.0.5>
 - YunoHost packaging docs: <https://yunohost.org/packaging_apps>
 
 ## Package development
